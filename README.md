@@ -6,7 +6,15 @@
 </div>
 <br>
 
-"Desenvolvedor em transição de carreira com foco em Análise e Desenvolvimento de Sistemas (ADS), atualmente dedicado ao aprimoramento de habilidades por meio da criação de projetos práticos. Entre eles, destaca-se o desenvolvimento de um sistema de controle financeiro, que contempla funcionalidades como autenticação de usuários e gerenciamento de dados, visando aplicar na prática conceitos essenciais do desenvolvimento web".
+"Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição de carreira para a área de Tecnologia. Atualmente, direciono meus estudos para o desenvolvimento de aplicações web com Python e JavaScript, buscando evoluir continuamente como desenvolvedor.
+
+Tenho experiência na criação de interfaces responsivas utilizando HTML, CSS, JavaScript, Bootstrap e , além de conhecimentos em Git e GitHub para versionamento de código. Gosto de transformar ideias em projetos práticos e desenvolver soluções que resolvam problemas reais.
+
+Ao longo da minha jornada, venho construindo projetos para fortalecer meu portfólio, aplicando conceitos de lógica de programação, boas práticas de desenvolvimento e organização de código. Acredito que aprender construindo é a melhor forma de evoluir.
+
+Atualmente, busco uma oportunidade como Desenvolvedor Júnior ou Estagiário, onde eu possa colaborar com a equipe, participar de projetos reais, adquirir experiência prática e continuar crescendo profissionalmente.
+
+Estou sempre aberto a novas conexões, troca de conhecimentos, feedbacks e oportunidades. Será um prazer conversar!".
 ##
 <div style="display: inline-block;">
   <img alt="Yago-html" height="30" width="40" 
